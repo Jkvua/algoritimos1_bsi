@@ -1,2 +1,2 @@
-# algoritimos1_bsi
-Exercicio de Algoritimos e Programação I
+# Exercícios de python do primeiro semestre
+Repositório com os exercício de Algoritimos e Programação I
